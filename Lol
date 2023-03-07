@@ -1,5 +1,5 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("MM2 HUB","GreenTheme")
+local window = kavoUi.CreateLib("MM2 HUB","DarkTheme")
  
 ---Tabs
  
@@ -7,11 +7,10 @@ local Tab1 = window:NewTab("Games")
 local Tab1Section = Tab1:NewSection("Popular Games")
 local Tab2 = window:NewTab("Credits")
 local Tab2Section = Tab2:NewSection("Made By Take qwoxis")
-local Tab2Section = Tab2:NewSection("YouTube | qwoxis💣 vaxirfluxhydrogen")
+local Tab2Section = Tab2:NewSection("YouTube | qwoxis💣vaxirfluxhydrogen")
 local Tab2Section = Tab2:NewSection("Telegram | t.me/vaxirfluxhydrogen")
 local Tab2 = window:NewTab("Updates")
 local Tab2Section = Tab2:NewSection("V2")
-local Tab3 = window:NewTab("Others")
 
 ---Buttons
  
