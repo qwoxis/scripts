@@ -16,7 +16,7 @@ local Tab2Section = Tab2:NewSection("V2")
 local Tab3 = window:NewTab("Others")
 local Tab3Section = Tab3:NewSection("Others GUI'S")
 local Tab4 = window:NewTab("from")
-local Tab4Section = Tab4:NewSection("Telegram | t.me/vaxirfluxhydrogen")
+local Tab4Section = Tab4:NewSection("Telegram | --t.me/woxisfluxarceusx")
  
 ---Buttons
  
